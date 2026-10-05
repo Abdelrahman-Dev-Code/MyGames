@@ -1,0 +1,15 @@
+C:\Users\Zainon\Desktop\c#\برمجة متقدمة\نشاط\العاب\MyGames\MyGames\bin\Debug\MyGames.exe.config
+C:\Users\Zainon\Desktop\c#\برمجة متقدمة\نشاط\العاب\MyGames\MyGames\bin\Debug\MyGames.exe
+C:\Users\Zainon\Desktop\c#\برمجة متقدمة\نشاط\العاب\MyGames\MyGames\bin\Debug\MyGames.pdb
+C:\Users\Zainon\Desktop\c#\برمجة متقدمة\نشاط\العاب\MyGames\MyGames\obj\Debug\MyGames.SelectGame.resources
+C:\Users\Zainon\Desktop\c#\برمجة متقدمة\نشاط\العاب\MyGames\MyGames\obj\Debug\MyGames.Properties.Resources.resources
+C:\Users\Zainon\Desktop\c#\برمجة متقدمة\نشاط\العاب\MyGames\MyGames\obj\Debug\MyGames.csproj.GenerateResource.Cache
+C:\Users\Zainon\Desktop\c#\برمجة متقدمة\نشاط\العاب\MyGames\MyGames\obj\Debug\MyGames.exe
+C:\Users\Zainon\Desktop\c#\برمجة متقدمة\نشاط\العاب\MyGames\MyGames\obj\Debug\MyGames.pdb
+C:\Users\Zainon\Desktop\c#\برمجة متقدمة\نشاط\العاب\MyGames\MyGames\obj\Debug\MyGames.csprojResolveAssemblyReference.cache
+C:\Users\Zainon\Desktop\c#\برمجة متقدمة\نشاط\العاب\MyGames\MyGames\obj\Debug\MyGames.ChoseLevel.resources
+C:\Users\Zainon\Desktop\c#\برمجة متقدمة\نشاط\العاب\MyGames\MyGames\obj\Debug\MyGames.BrickBreaker.resources
+C:\Users\Zainon\Desktop\c#\برمجة متقدمة\نشاط\العاب\MyGames\MyGames\obj\Debug\MyGames.PingPong.resources
+C:\Users\Zainon\Desktop\c#\برمجة متقدمة\نشاط\العاب\MyGames\MyGames\obj\Debug\MyGames.ChoseLevel2.resources
+C:\Users\Zainon\Desktop\c#\برمجة متقدمة\نشاط\العاب\MyGames\MyGames\obj\Debug\MyGames.RapidRoll.resources
+C:\Users\Zainon\Desktop\c#\برمجة متقدمة\نشاط\العاب\MyGames\MyGames\obj\Debug\MyGames.WarPlanes.resources
